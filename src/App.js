@@ -10,6 +10,8 @@ function App() {
       <h3>stand</h3>
       <h3>King Size Bed</h3>
       <h3>Queen Size Bed</h3>
+      <h3>King Size Bed</h3>
+      <h3>Queen Size Bed</h3>
     </div>
   );
 }
